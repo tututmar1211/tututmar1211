@@ -1,16 +1,26 @@
-### Hi there 👋
+# TUTUT MARTAMTI - Profile README
 
-<!--
-**tututmar1211/tututmar1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+Hello there! I'm TUTUT MARTAMTI, a student pursuing a degree in Computer Science. I'm passionate about technology, cybersecurity, and software development. 
 
-Here are some ideas to get you started:
+## About Me
+- **Name**: TUTUT MARTAMTI
+- **Education**: Currently studying Computer Science at Bina Sarana Informatika, Jakarta
+- **Interests**: Cybersecurity, programming, web development
+- **Location**: Jakarta, Indonesia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Java, Python, C++
+- Web Development: HTML, CSS, JavaScript
+- Cybersecurity: Network security, ethical hacking
+- Tools: Git, Linux, Docker
+
+## Contact
+- Email: tututmar1211@bsi.ac.id
+
+## Fun Facts
+- I code even during office hours.
+- I'm always up for a challenge, especially when it comes to solving cybersecurity puzzles.
+- I enjoy learning new programming languages and technologies in my free time.
+
+Feel free to reach out if you'd like to connect or collaborate on any projects!
